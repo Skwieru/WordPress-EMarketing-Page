@@ -1,5 +1,5 @@
 # WordPres E-marketing Page
-Website about e-marketing created in WordPress.
+Website about e-marketing created by me in WordPress.
 
 Visit this link to see the website: 
 https://emarketing.news/

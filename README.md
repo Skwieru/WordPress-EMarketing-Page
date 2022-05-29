@@ -1,7 +1,6 @@
 # WordPress E-marketing Page
 
-!["weather APP Image"](https://github.com/Skwieru/WordPress-EMarketing-Page/blob/main/ecommerceImage.png?raw=true))
-https://github.com/Skwieru/WordPress-EMarketing-Page/blob/main/ecommerceImage.png?raw=true
+!["weather APP Image"](https://github.com/Skwieru/WordPress-EMarketing-Page/blob/main/ecommerceImage.png?raw=true)
 
 ## Technologies: WordPress 
 

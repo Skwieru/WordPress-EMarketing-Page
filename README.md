@@ -1,4 +1,4 @@
-# WordPress about E-marketing
+# Website about E-marketing
 
 !["weather APP Image"](https://github.com/Skwieru/WordPress-EMarketing-Page/blob/main/ecommerceImage.png?raw=true)
 
